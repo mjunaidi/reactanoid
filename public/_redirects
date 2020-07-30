@@ -1,0 +1,14 @@
+/css/*  /css/:splat
+/js/*  /js/:splat
+/data/*  /data/:splat
+/file/*  /file/:splat
+/img/*  /img/:splat
+/static/*  /static/:splat
+/service-worker.js /service-worker.js 200
+/manifest.json /manifest.json 200
+/asset-manifest.json /asset-manifest.json 200
+/favicon.ico /favicon.ico 200
+/logo192.png /logo192.png 200
+/logo512.png /logo512.png 200
+/pingpong.glb /pingpong.glb 200
+/*  /index.html 200!
