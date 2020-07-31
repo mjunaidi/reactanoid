@@ -12,5 +12,5 @@
 /logo512.png /logo512.png 200
 /asset-manifest.json /asset-manifest.json 200
 /pingpong.glb /pingpong.glb 200
-/precache-manifest.* /precache-manifest.:splat
+/precache-manifest.* /precache-manifest.:splat 200
 /*  /index.html 200!

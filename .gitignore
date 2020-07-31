@@ -2,6 +2,7 @@ node_modules/
 coverage/
 dist/
 types/
+build/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
@@ -13,3 +14,4 @@ package-lock.json
 coverage/
 .idea
 yarn-error.log
+*-bk
